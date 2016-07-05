@@ -1,0 +1,13 @@
+PODS:
+  - iOS-Echarts (1.1.7)
+  - MBProgressHUD (0.9.2)
+
+DEPENDENCIES:
+  - iOS-Echarts (~> 1.0)
+  - MBProgressHUD (~> 0.8)
+
+SPEC CHECKSUMS:
+  iOS-Echarts: 898bb0352fcf4af48277027798a4abd6c69d3fa5
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+
+COCOAPODS: 0.38.2

@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "PYEchartsView.h"
 @interface ViewController : UIViewController
+@property (weak, nonatomic) IBOutlet PYEchartsView *kEchartView;
 
 
 @end
